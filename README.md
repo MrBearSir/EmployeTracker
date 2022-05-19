@@ -7,7 +7,7 @@
 # Repository Link
 https://github.com/MrBearSir/EmployeTracker
 
-# WalkThrue Video
+# Walkthrough Video
 https://youtu.be/5fhILd_cGWk
 
 # Project type.
