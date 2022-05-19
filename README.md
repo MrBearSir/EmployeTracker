@@ -2,25 +2,27 @@
 # Student Id.
 # Oleg Dobrovolskyi
 
-<img src="./assets/Snippet1.JPG">
+<img src="./public/Snippet1.JPG">
 
 # Repository Link
-https://github.com/MrBearSir/WeatherApp
+https://github.com/MrBearSir/EmployeTracker
 
-# Live Page URL
-https://mrbearsir.github.io/WeatherApp
+# WalkThrue Video
+https://youtu.be/5fhILd_cGWk
 
 # Project type.
-Server-Side API
+SQL Challenge
 
 # User Story.
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly
+AS A business owner</br>
+I WANT to be able to view and manage the departments, roles, and employees in my company</br>
+SO THAT I can organize and plan my business</br>
 
 # Skills used in development.
 <ul>
-<li>Using HTML and CSS skills to build dynamically updated HTML and CSS.</li>
-<li>JS skills to do the API fetch calls and populate the data with it.</li>
-<li>Git tech to update, upload, merge repos and create the remote repo.</li>
+<li>MySql databases.</li>
+<li>Inquirer to get user prompts and interact with databases.</li>
+<li>Node.js to connect with database.</li>
+<li>dotenv to grant acces to database on local machine.</li>
+<li>console.table to display tables from DB.</li>
 </ul>
